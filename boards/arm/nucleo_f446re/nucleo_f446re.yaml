@@ -14,5 +14,5 @@ supported:
   - gpio
   - spi
   - i2c
-ram: 96
+ram: 128
 flash: 512
